@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I'm passionate about coding, technology, and conti
 - Building projects with **React**, **Node.js**, and **Express**, **Laravel**
 
 ## 🌱 What I'm Learning
-- Advanced concepts in **JavaScript**
+- Advanced concepts in **JavaScript** & **typescript**
 - Cloud services with **AWS** and **Azure**
 - Docker and Kubernetes for containerization and orchestration
 
