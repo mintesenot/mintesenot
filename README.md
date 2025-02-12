@@ -4,8 +4,7 @@ Welcome to my GitHub profile. I'm passionate about coding, technology, and conti
 
 ## 🔭 What I'm Currently Working On
 - Improving my skills in **Full-stack Development**
-- Building projects with **React**, **Node.js**, and **Express**
-- Exploring **Machine Learning** and **AI**
+- Building projects with **React**, **Node.js**, and **Express**, **Laravel**
 
 ## 🌱 What I'm Learning
 - Advanced concepts in **JavaScript**
